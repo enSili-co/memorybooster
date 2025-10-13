@@ -218,10 +218,10 @@ header {
 }
 
 .bg-gradient {
-  background-image: -moz-linear-gradient(135deg, #b04293 0%, #c73d7d 100%);
-  background-image: -webkit-linear-gradient(135deg, #b04293 0%, #c73d7d 100%);
-  background-image: -ms-linear-gradient(135deg, #b04293 0%, #c73d7d 100%);
-  background-image: linear-gradient(135deg, #b04293 0%, #c73d7d 100%);
+  background-image: -moz-linear-gradient(135deg, #c73d7d 0%, #b04293 100%);
+  background-image: -webkit-linear-gradient(135deg, #c73d7d 0%, #b04293 100%);
+  background-image: -ms-linear-gradient(135deg, #c73d7d 0%, #b04293 100%);
+  background-image: linear-gradient(135deg, #c73d7d 0%, #b04293 100%);
 }
 
 .tagline {

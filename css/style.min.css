@@ -31,12 +31,12 @@ body {
 }
 
 a {
-  color: #c5eec1;
+  color: #de8cb2;
 }
 
 a:hover,
 a:focus {
-  color: #7ad871;
+  color: #c73d7d;
 }
 
 h1 {
@@ -49,13 +49,13 @@ h1 {
 h2 {
   font-size: 45px;
   font-weight: 300;
-  color: #6a4ce7;
+  color: #b04293;
   letter-spacing: -1px;
   margin-bottom: 1rem;
 }
 
 h3 {
-  color: #6a4ce7;
+  color: #b04293;
   font-size: 33px;
   font-weight: 500;
 }
@@ -63,13 +63,13 @@ h3 {
 h4 {
   font-size: 20px;
   font-weight: 500;
-  color: #6a4ce7;
+  color: #b04293;
 }
 
 h5 {
   font-size: 28px;
   font-weight: 300;
-  color: #6a4ce7;
+  color: #b04293;
   margin-bottom: 0.7rem;
 }
 
@@ -78,7 +78,7 @@ p {
 }
 
 p.lead {
-  color: #c5eec1;
+  color: #de8cb2;
   margin-bottom: 2rem;
 }
 
@@ -99,12 +99,12 @@ p.lead {
 }
 
 .btn-outline-light:hover {
-  color: #6a4ce7;
+  color: #b04293;
 }
 
 .btn-primary {
   border-radius: 3px;
-  background-color: #7ad871;
+  background-color: #c73d7d;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.2);
   font-weight: 500;
   padding: 0.6rem 2rem;
@@ -117,7 +117,7 @@ p.lead {
 .btn-primary:not([disabled]):not(.disabled).active,
 .btn-primary:not([disabled]):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
-  background-color: #67d35d;
+  background-color: #b63571;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.3);
   color: #FFF;
 }
@@ -128,7 +128,7 @@ p.lead {
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.26);
   font-size: 14px;
   font-weight: 500;
-  color: #6a4ce7;
+  color: #b04293;
   margin: 0.5rem;
   padding: 0.7rem 1.6rem;
   line-height: 1.8;
@@ -174,7 +174,7 @@ p.lead {
 
 .nav-menu.is-scrolling,
 .nav-menu.menu-is-open {
-  background-color: rgba(106, 76, 231, 0.94);
+  background-color: rgba(176, 66, 147, 0.94);
 }
 
 .nav-menu.is-scrolling {
@@ -218,10 +218,10 @@ header {
 }
 
 .bg-gradient {
-  background-image: -moz-linear-gradient(135deg, #5841ef 0%, #8b44e3 100%);
-  background-image: -webkit-linear-gradient(135deg, #5841ef 0%, #8b44e3 100%);
-  background-image: -ms-linear-gradient(135deg, #5841ef 0%, #8b44e3 100%);
-  background-image: linear-gradient(135deg, #5841ef 0%, #8b44e3 100%);
+  background-image: -moz-linear-gradient(135deg, #b04293 0%, #c73d7d 100%);
+  background-image: -webkit-linear-gradient(135deg, #b04293 0%, #c73d7d 100%);
+  background-image: -ms-linear-gradient(135deg, #b04293 0%, #c73d7d 100%);
+  background-image: linear-gradient(135deg, #b04293 0%, #c73d7d 100%);
 }
 
 .tagline {
@@ -254,10 +254,10 @@ header {
 /* FEATURES
 ----------------------*/
 .gradient-fill:before {
-  color: #f0ee67;
-  background: -moz-linear-gradient(top, #6cd562 0%, #f0ee67 100%);
-  background: -webkit-linear-gradient(top, #6cd562 0%, #f0ee67 100%);
-  background: linear-gradient(to bottom, #6cd562 0%, #f0ee67 100%);
+  color: #afe165;
+  background: -moz-linear-gradient(top, #67d262 0%, #afe165 100%);
+  background: -webkit-linear-gradient(top, #67d262 0%, #afe165 100%);
+  background: linear-gradient(to bottom, #67d262 0%, #afe165 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -282,10 +282,10 @@ header {
   content: "";
   position: absolute;
   width: 3px;
-  color: #f0ee67;
-  background: -moz-linear-gradient(top, #6cd562 0%, #f0ee67 100%);
-  background: -webkit-linear-gradient(top, #6cd562 0%, #f0ee67 100%);
-  background: linear-gradient(to bottom, #6cd562 0%, #f0ee67 100%);
+  color: #afe165;
+  background: -moz-linear-gradient(top, #67d262 0%, #afe165 100%);
+  background: -webkit-linear-gradient(top, #67d262 0%, #afe165 100%);
+  background: linear-gradient(to bottom, #67d262 0%, #afe165 100%);
   top: 0;
   bottom: 0;
   left: 0;
@@ -319,7 +319,7 @@ header {
   border-radius: 50%;
   margin-bottom: 1.5rem;
   background-color: #FFF;
-  color: #7ad871;
+  color: #c73d7d;
   font-size: 48px;
   text-align: center;
   line-height: 80px;
@@ -336,7 +336,7 @@ header {
   }
 }
 .ui-steps li:hover .circle-icon {
-  background: #7ad871;
+  background: #c73d7d;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.09);
   color: #FFF;
 }
@@ -400,7 +400,7 @@ header {
   background: #FFF;
   border-top-width: 3px;
   border-color: #ce75b4 #faf6fb #FFF;
-  color: #6a4ce7;
+  color: #b04293;
 }
 
 /*  TESTIMONIALS
@@ -495,7 +495,7 @@ header {
   border-top-width: 3px;
   border-color: #ce75b4 #faf6fb #FFF;
   box-shadow: 0px 12px 59px 0px rgba(36, 7, 31, 0.11);
-  color: #6a4ce7;
+  color: #b04293;
 }
 
 .card.pricing .card-head {
@@ -507,7 +507,7 @@ header {
   display: block;
   font-size: 45px;
   font-weight: 300;
-  color: #6a4ce7;
+  color: #b04293;
 }
 
 .card.pricing .card-head .price sub {
@@ -585,7 +585,7 @@ header {
 
 .social-icons a:hover {
   text-decoration: none;
-  color: #c5eec1;
+  color: #de8cb2;
 }
 
 @media (max-width: 991px) {
@@ -598,7 +598,7 @@ header {
 h4.howtolist {
   font-size: 28px;
   font-weight: 400;
-  color: #451fe1;
+  color: #8b3474;
   margin-bottom: 0.7rem;
 }
 

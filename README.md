@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/memorybooster/memorybooster-2.0.zip
+▶︎ https://cdn.ensili.co/app/memorybooster/download/memorybooster-2.0.zip
 
 # Official Website
 
